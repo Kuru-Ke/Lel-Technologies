@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lel Technologies Ltd</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="logo.png" alt="Lel Technologies Logo">
+            <h1>Lel Technologies Ltd</h1>
+            <p class="tagline">Your Digital Lifeline</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Quality Tech, Straight From the UK</h2>
+            <p>New, Refurbished & Ex-UK Laptops, Desktops and Accessories</p>
+        </section>
+
+        <section class="about">
+            <h3>About Us</h3>
+            <p>Coming soon — Learn more about our mission, team, and what makes us stand out in the tech space.</p>
+        </section>
+
+        <section class="products">
+            <h3>Our Products</h3>
+            <p>We'll showcase our top tech deals and product categories here soon.</p>
+        </section>
+
+        <section class="contact">
+            <h3>Contact Us</h3>
+            <p>Need something? We’re just a message away.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Lel Technologies Ltd. All rights reserved.</p>
+    </footer>
+</body>
+</html>
